@@ -1,0 +1,28 @@
+{
+  "background_color": "#fff",
+  "display": "standalone",
+  "homepage_url": "http://skyflow.kco.hns.to/",
+  "providedBy": { "name": "Skyflow", "url": "http://skyflow.kco.hns.to/" },
+  "icons": [
+    {
+      "src": "./images/webclip.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./images/webclip.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "name": "Skyflow",
+  "description": "A decentralized drag and drop web builder",
+  "iconPath": "./images/webclip.png",
+  "short_name": "Skyflow",
+  "start_url": "./index.html",
+  "theme_color": "#31BBEE",
+  "skylink": "AQC2eIxnfa9ZhCM3jyztJa8DzJfrE3dkAmn7ckX1xbdgnw"
+}
