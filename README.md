@@ -1,5 +1,5 @@
 # SkyflowWebsite
-A decentralized drag and drop web builder
+The landing page for a decentralized drag and drop web builder
 
 # HNS Domain
 http://skyflow.kco.hns.to/
